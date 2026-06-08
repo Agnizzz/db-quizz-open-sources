@@ -155,17 +155,5 @@
     "accountNumber": "",
     "cci": ""
   }
-],
-  "sanctions": [
-    {
-      "id": 1,
-      "userId": 205,
-      "userName": "Miguel Torres",
-      "type": "warning",
-      "reason": "Lenguaje ofensivo",
-      "reportId": 1,
-      "appliedAt": "2026-05-21T10:00:00",
-      "expiresAt": ""
-    }
-  ]
+]
 }
